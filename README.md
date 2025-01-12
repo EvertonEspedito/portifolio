@@ -17,7 +17,7 @@ Este portfólio foi desenvolvido utilizando as seguintes tecnologias e ferrament
 - **HTML5**: Estruturação do conteúdo.
 - **CSS3**: Estilização e design responsivo.
 - **JavaScript**: Interatividade e funcionalidades dinâmicas.
-- **Frameworks/Bibliotecas**: *(Adicionar caso esteja usando, ex.: React, Bootstrap, etc.)*
+- **Frameworks/Bibliotecas**: *Bootstrap, Jquery,  etc.)*
 - **Ferramentas**: *(Adicionar ferramentas como VS Code, Git, etc., se relevante)*
 
 ## 📁 Estrutura do Repositório
