@@ -32,9 +32,8 @@ Este portfólio foi desenvolvido utilizando as seguintes tecnologias e ferrament
 ## 🚀 Funcionalidades
 
 - Design responsivo para dispositivos móveis e desktops.
-- Exibição de projetos com descrição e links para repositórios.
+- Exibição de projetos e links para repositórios.
 - Seção "Sobre mim" com detalhes da minha trajetória.
-- Formulário de contato funcional.
 - Links para redes sociais e GitHub.
 
 ## 🎨 Demonstração
